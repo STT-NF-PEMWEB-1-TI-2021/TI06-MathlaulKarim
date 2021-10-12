@@ -1,2 +1,2 @@
 # TI06-MathlaulKarim
-repository milik Karim untuk mengumpulkan tugas dana praktikum
+repository milik Karim untuk mengumpulkan tugas dan praktikum
